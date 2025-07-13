@@ -12,7 +12,7 @@
 
 import java.util.*;
 
-public class HollowRect {
+public class HollowRectangle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); // Scanner → To take input from the user.
 
